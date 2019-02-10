@@ -1,0 +1,33 @@
+[submodule "bundle/delimitmate"]
+	path = bundle/delimitmate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "bundle/vim-vp4"]
+	path = bundle/vim-vp4
+	url = https://github.com/ngemily/vim-vp4.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "bundle/tabline.vim"]
+	path = bundle/tabline.vim
+	url = git://github.com/mkitt/tabline.vim.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git://github.com/majutsushi/tagbar.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "pathogen"]
+	path = pathogen
+	url = git://github.com/tpope/vim-pathogen.git
+[submodule "git_clones/YouCompleteMe"]
+	path = git_clones/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "pack/minpac/opt/minpac"]
+	path = pack/minpac/opt/minpac
+	url = https://github.com/k-takata/minpac.git

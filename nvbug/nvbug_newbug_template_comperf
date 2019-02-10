@@ -1,0 +1,35 @@
+[[ApplicationDivision]]
+Hardware
+
+[[BugType]]
+Architecture
+
+[[Module]]
+Fermi Weird Level
+
+[[RequesterFullName]]
+
+[[EngineerFullName]]
+Rui Bastos
+
+[[QAEngineerFullName]]
+Rui Bastos
+
+[[ARBFullName]]
+Ryan Ye
+
+[[Severity]]
+3-Functionality
+
+[[Priority]]
+5-Normal
+
+[[Synopsis]]
+Fermi weird-level:$CURSOR 
+
+[[Description]]
+Your description here
+
+[[CCFullName]]
+Rui Bastos, Yu Yu
+
