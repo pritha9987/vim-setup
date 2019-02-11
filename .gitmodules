@@ -31,3 +31,9 @@
 [submodule "pack/minpac/opt/minpac"]
 	path = pack/minpac/opt/minpac
 	url = https://github.com/k-takata/minpac.git
+[submodule "/home/pghoshal/.vim/bundle/vim-bufferline"]
+	path = /home/pghoshal/.vim/bundle/vim-bufferline
+	url = https://github.com/bling/vim-bufferline
+[submodule "/home/pghoshal/.vim/bundle/vim-airline"]
+	path = /home/pghoshal/.vim/bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline
